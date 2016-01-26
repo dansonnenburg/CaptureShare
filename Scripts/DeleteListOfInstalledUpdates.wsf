@@ -1,0 +1,10 @@
+<job id="DeleteListOfInstalledUpdates">
+ <script language="VBScript" src="ZTIUtility.vbs"/>
+ <script language="VBScript">
+ 
+ Option Explicit
+ oEnvironment.Item("InstalledUpdates001") = ""
+
+ </script>
+</job>
+
